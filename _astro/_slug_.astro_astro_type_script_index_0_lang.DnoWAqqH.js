@@ -1,0 +1,1 @@
+import{r as o}from"./atribucion.B4CVMZnr.js";import{p as i,t as e}from"./medicion.CyPEGOqg.js";document.addEventListener("astro:page-load",()=>{const r=i(),t=r.propiedad_slug;t&&(o(t),e("ver_propiedad",{...r,items:[{item_id:t,item_category:r.tipo_prop,item_brand:r.origen_prop,item_list_id:r.proyecto_id}]}))});
